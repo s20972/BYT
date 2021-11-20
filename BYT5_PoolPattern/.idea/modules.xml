@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BYT4_Exercise4.iml" filepath="$PROJECT_DIR$/BYT4_Exercise4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BYT_PoolPattern.iml" filepath="$PROJECT_DIR$/BYT_PoolPattern.iml" />
     </modules>
   </component>
 </project>
